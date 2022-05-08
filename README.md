@@ -1,2 +1,2 @@
 # cekconn
-Cek Koneksi
+Cek Koneksi Wifi.id
